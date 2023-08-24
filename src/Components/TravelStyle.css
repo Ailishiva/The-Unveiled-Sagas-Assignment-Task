@@ -1,0 +1,46 @@
+.travel-container {
+    height: 110vh;
+    width: 220vh;
+    background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/220126143701-air-asia.jpg?q=h_900,w_1600,x_0,y_0');
+    display: flex;
+    justify-content: space-around;
+    /* margin: 13px; */
+    padding: 100px;
+
+}
+
+.three-number {
+    font-size: 110px;
+    color: bisque;
+    font-family: initial;
+}
+
+.travelgif1 {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 30px;
+}
+
+.travelgif2 {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 30px;
+
+}
+
+.travelgif3 {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 30px;
+}
+
+.travelgif4 {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    border-radius: 30px;
+
+}

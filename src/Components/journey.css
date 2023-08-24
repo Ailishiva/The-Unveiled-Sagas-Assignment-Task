@@ -1,0 +1,24 @@
+.journey-section {
+    height: 200px;
+    border-top: 148px solid transparent;
+    border-left: 653px solid orange;
+    border-bottom: 253px solid transparent;
+    margin-top: -149px;
+
+}
+
+.four-number {
+    font-size: 110px;
+    margin-left: -124px;
+    color: bisque;
+    font-family: initial;
+}
+
+#parallelogram {
+    width: 150px;
+    margin-left: 173px;
+    margin-top: -132px;
+    height: 100px;
+    transform: skew(-31deg);
+    background: red;
+}

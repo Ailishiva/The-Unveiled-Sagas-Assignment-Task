@@ -1,0 +1,60 @@
+.experience-section {
+    background-image: url('https://i.pinimg.com/originals/00/c4/03/00c403f3a29d5a5c93b006ab268d564b.jpg');
+    width: 220vh;
+    height: 120vh;
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+}
+
+#exp-gif1 {
+    width: 235px;
+    margin: 10px;
+    height: 150px;
+    border-radius: 23px;
+}
+
+#exp-gif2 {
+    height: 229px;
+    margin: 10px;
+    border-radius: 30px;
+    width: 159px;
+}
+
+#exp-gif3 {
+    height: 191px;
+    margin: 10px;
+    border-radius: 30px;
+    width: 104px;
+}
+
+#exp-gif4 {
+    height: 150px;
+    margin: 5px;
+    border-radius: 30px;
+    width: 250pxpx;
+}
+
+.red-lin {
+    background: red;
+    height: 5px;
+    width: 100px;
+    margin: auto;
+}
+
+#exp-gif5 {
+    width: 300px;
+    margin: 5px;
+    border-radius: 30px;
+}
+
+.readmor {
+    padding: 6px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    color: blue;
+    cursor: pointer;
+    background: none;
+    margin-right: 20px;
+    margin-left: 30px;
+}

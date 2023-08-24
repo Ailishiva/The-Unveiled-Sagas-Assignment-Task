@@ -1,0 +1,50 @@
+.one-number {
+    font-size: 110px;
+    color: bisque;
+    font-family: math;
+}
+
+.red-line {
+    background: red;
+    height: 5px;
+    width: 100px;
+    margin: 40px 40px 40px 0px;
+}
+
+.readmore {
+    padding: 6px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    color: blue;
+    cursor: pointer;
+    background: none;
+    margin-left: 30px;
+}
+
+#save {
+
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 50%;
+    font-size: 24px;
+    background: orange;
+    color: white;
+}
+
+.destination-container {
+    width: 300px;
+}
+
+.destination-section {
+    display: flex;
+    width: 80rem;
+    justify-content: space-evenly;
+}
+
+#gif-1 {
+    width: 283px;
+    border-radius: 96px;
+    height: 422px;
+    margin: 10px;
+    padding: 33px;
+}
